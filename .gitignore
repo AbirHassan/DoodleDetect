@@ -1,1 +1,3 @@
-test_simplified.cvs
+test_simplified.csv
+.ipynb_checkpoints/
+train_simplified/
